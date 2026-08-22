@@ -8,6 +8,7 @@
 | [0001-two-sum](https://github.com/anuragkrgupta/LeetCode-solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/anuragkrgupta/LeetCode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0088-merge-sorted-array](https://github.com/anuragkrgupta/LeetCode-solutions/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/anuragkrgupta/LeetCode-solutions/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anuragkrgupta/LeetCode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/anuragkrgupta/LeetCode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Binary Search
@@ -39,6 +40,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/anuragkrgupta/LeetCode-solutions/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/anuragkrgupta/LeetCode-solutions/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
