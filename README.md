@@ -12,6 +12,7 @@
 | [0283-move-zeroes](https://github.com/anuragkrgupta/LeetCode-solutions/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anuragkrgupta/LeetCode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/anuragkrgupta/LeetCode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/anuragkrgupta/LeetCode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Binary Search
 |  |
 | ------- |
