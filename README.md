@@ -14,6 +14,7 @@
 | [0283-move-zeroes](https://github.com/anuragkrgupta/LeetCode-solutions/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anuragkrgupta/LeetCode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/anuragkrgupta/LeetCode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1646-get-maximum-in-generated-array](https://github.com/anuragkrgupta/LeetCode-solutions/tree/master/1646-get-maximum-in-generated-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/anuragkrgupta/LeetCode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Binary Search
 |  |
@@ -65,6 +66,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/anuragkrgupta/LeetCode-solutions/tree/master/0054-spiral-matrix) |
+| [1646-get-maximum-in-generated-array](https://github.com/anuragkrgupta/LeetCode-solutions/tree/master/1646-get-maximum-in-generated-array) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/anuragkrgupta/LeetCode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Matrix
 |  |
