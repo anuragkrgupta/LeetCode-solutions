@@ -7,6 +7,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/anuragkrgupta/LeetCode-solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/anuragkrgupta/LeetCode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0054-spiral-matrix](https://github.com/anuragkrgupta/LeetCode-solutions/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/anuragkrgupta/LeetCode-solutions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/anuragkrgupta/LeetCode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/anuragkrgupta/LeetCode-solutions/tree/master/0283-move-zeroes) |
@@ -60,5 +61,10 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/anuragkrgupta/LeetCode-solutions/tree/master/0054-spiral-matrix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/anuragkrgupta/LeetCode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/anuragkrgupta/LeetCode-solutions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
