@@ -56,6 +56,7 @@
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/anuragkrgupta/LeetCode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/anuragkrgupta/LeetCode-solutions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 ## Stack
 |  |
 | ------- |
@@ -70,4 +71,12 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/anuragkrgupta/LeetCode-solutions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/anuragkrgupta/LeetCode-solutions/tree/master/0074-search-a-2d-matrix) |
+## Greedy
+|  |
+| ------- |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/anuragkrgupta/LeetCode-solutions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+## Enumeration
+|  |
+| ------- |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/anuragkrgupta/LeetCode-solutions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 <!---LeetCode Topics End-->
