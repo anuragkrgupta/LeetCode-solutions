@@ -11,6 +11,7 @@
 | [0074-search-a-2d-matrix](https://github.com/anuragkrgupta/LeetCode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/anuragkrgupta/LeetCode-solutions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/anuragkrgupta/LeetCode-solutions/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/anuragkrgupta/LeetCode-solutions/tree/master/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/anuragkrgupta/LeetCode-solutions/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anuragkrgupta/LeetCode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/anuragkrgupta/LeetCode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -38,6 +39,7 @@
 | [0007-reverse-integer](https://github.com/anuragkrgupta/LeetCode-solutions/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/anuragkrgupta/LeetCode-solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/anuragkrgupta/LeetCode-solutions/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/anuragkrgupta/LeetCode-solutions/tree/master/0204-count-primes) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/anuragkrgupta/LeetCode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Bit Manipulation
 |  |
@@ -80,5 +82,22 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/anuragkrgupta/LeetCode-solutions/tree/master/0204-count-primes) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/anuragkrgupta/LeetCode-solutions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/anuragkrgupta/LeetCode-solutions/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/anuragkrgupta/LeetCode-solutions/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/anuragkrgupta/LeetCode-solutions/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/anuragkrgupta/LeetCode-solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
