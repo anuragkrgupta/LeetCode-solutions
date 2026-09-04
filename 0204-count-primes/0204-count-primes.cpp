@@ -4,21 +4,21 @@ public:
         if (n <= 2)
             return 0;
 
-        vector<char> isComposite(n, false);
+        vector<bool> composite(n, false);
 
-        int count = 1; 
-
-        for (int i = 3; i < n; i += 2) {
-
-            if (!isComposite[i]) {
-                count++;
-
-                if ((long long)i * i < n) {
-                    for (long long j = (long long)i * i; j < n; j += 2 * i) {
-                        isComposite[j] = true;
-                    }
+        for (int i = 3; (long long)i * i < n; i += 2) {
+            if (!composite[i]) {
+                for (long long j = (long long)i * i; j < n; j += 2 * i) {
+                    composite[j] = true;
                 }
             }
+        }
+
+        int count = 1;
+
+        for (int i = 3; i < n; i += 2) {
+            if (!composite[i])
+                count++;
         }
 
         return count;
