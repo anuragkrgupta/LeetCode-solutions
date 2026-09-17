@@ -34,6 +34,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anuragkrgupta/LeetCode-solutions/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/anuragkrgupta/LeetCode-solutions/tree/master/0242-valid-anagram) |
 ## Math
 |  |
 | ------- |
@@ -56,9 +57,11 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/anuragkrgupta/LeetCode-solutions/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/anuragkrgupta/LeetCode-solutions/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/anuragkrgupta/LeetCode-solutions/tree/master/0242-valid-anagram) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/anuragkrgupta/LeetCode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/anuragkrgupta/LeetCode-solutions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 ## Stack
