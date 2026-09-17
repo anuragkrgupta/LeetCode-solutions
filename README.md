@@ -108,4 +108,8 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anuragkrgupta/LeetCode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/anuragkrgupta/LeetCode-solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
