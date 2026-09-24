@@ -13,6 +13,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anuragkrgupta/LeetCode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/anuragkrgupta/LeetCode-solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/anuragkrgupta/LeetCode-solutions/tree/master/0204-count-primes) |
+| [0238-product-of-array-except-self](https://github.com/anuragkrgupta/LeetCode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/anuragkrgupta/LeetCode-solutions/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anuragkrgupta/LeetCode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/anuragkrgupta/LeetCode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -112,4 +113,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/anuragkrgupta/LeetCode-solutions/tree/master/0069-sqrtx) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/anuragkrgupta/LeetCode-solutions/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
